@@ -1,7 +1,7 @@
-## DEVOPS PROJECTS ZERO-TO-HERO
+# DEVOPS PROJECTS ZERO-TO-HERO
 
 
-# Real-World DevOps/Cloud Projects For Learning and also Production ready Implemetation ♐
+Real-World DevOps/Cloud Projects For Learning and also Production ready Implemetation ♐
 
 
 ## DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
