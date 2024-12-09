@@ -303,4 +303,4 @@ ii. Through the container deployed on the same instance.
 ![s](https://imgur.com/2j6Aoyl.png)
 
 > [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
+> **Join Our** [Telegram Community](https://t.me/devopstank) // [Follow me](https://github.com/githubajaydhage) **for more DevOps & Cloud content.**

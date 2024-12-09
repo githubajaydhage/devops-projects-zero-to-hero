@@ -540,4 +540,4 @@ Observe that the title changed as expected.
 ![](https://imgur.com/2j6Aoyl.png)
 
 > [!Note]
-> Join Our [Telegram Community](https:t.me/prodevopsguy) || [Follow me](https://github.com/NotHarshhaa) for more DevOps Content
+> Join Our [Telegram Community](https:t.me/devopstank) || [Follow me](https://github.com/githubajaydhage) for more DevOps Content

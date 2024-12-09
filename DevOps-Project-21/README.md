@@ -23,7 +23,7 @@ In This Project, we are Developing and Deploying a video streaming application o
 Clone this Repository
 
 ```elixir
-git clone https://github.com/NotHarshhaa/DevOps-Projects.git
+git clone https://github.com/githubajaydhage/devops-projects-zero-to-hero.git
 ```
 
 # **Project Architecture**
@@ -327,6 +327,6 @@ sudo service codedeploy-agent status
 
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Ajay Dhage](https://github.com/githubajaydhage)
 
 ### Ensure to follow me on GitHub. Please star/share this repository

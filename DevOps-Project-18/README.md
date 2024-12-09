@@ -65,6 +65,6 @@ This end-to-end Jenkins pipeline will automate the entire CI/CD process for a Ja
 # Thank you
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Ajay Dhage](https://github.com/githubajaydhage)
 
 ### Ensure to follow me on GitHub. Please star/share this repository!

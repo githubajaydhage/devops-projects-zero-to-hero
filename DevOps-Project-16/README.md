@@ -805,6 +805,6 @@ Go to Jenkins Dashboard again
 
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Ajay Dhage](https://github.com/githubajaydhage)
 
 ### Ensure to follow me on GitHub. Please star/share this repository

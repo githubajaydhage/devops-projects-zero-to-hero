@@ -414,4 +414,4 @@ Adopting the **AWS 3-Tier Web Application Architecture** is a strategic move for
 ![s](https://imgur.com/2j6Aoyl.png)
 
 > [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
+> **Join Our** [Telegram Community](https://t.me/devopstank) // [Follow me](https://github.com/githubajaydhage) **for more DevOps & Cloud content.**

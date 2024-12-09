@@ -64,4 +64,4 @@ Customize the application dependencies mentioned below on AWS EC2 instance and c
 
 ***If you are planning to use this repo for learning, please hit the star. Thanks!***
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Ajay Dhage](https://github.com/githubajaydhage)

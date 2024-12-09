@@ -2,9 +2,9 @@
 
 ![zomato-clone](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*X_hm5iF0NRjbOZHB6RQIFA.jpeg)
 
-# 👉 Blog Link: <https://harshhaa.hashnode.dev/zomato-clone-secure-deployment-with-devsecops-cicd>
+<!-- # 👉 Blog Link: <https://harshhaa.hashnode.dev/zomato-clone-secure-deployment-with-devsecops-cicd>
 
-# 👉 Project Source Code: <https://github.com/NotHarshhaa/Zomato-Clone>
+# 👉 Project Source Code: <https://github.com/NotHarshhaa/Zomato-Clone> -->
 
 ## ✌️ Samples
 
@@ -16,6 +16,6 @@
 
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Ajay Dhage](https://github.com/githubajaydhage)
 
 ### Ensure to follow me on GitHub. Please star/share this repository
